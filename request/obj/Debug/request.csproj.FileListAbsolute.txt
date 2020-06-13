@@ -1,0 +1,10 @@
+D:\Documentos\Visual Studio 2019\Soluciones Visual Studio 2019\request\request\bin\Debug\request.exe.config
+D:\Documentos\Visual Studio 2019\Soluciones Visual Studio 2019\request\request\bin\Debug\request.exe
+D:\Documentos\Visual Studio 2019\Soluciones Visual Studio 2019\request\request\bin\Debug\request.pdb
+D:\Documentos\Visual Studio 2019\Soluciones Visual Studio 2019\request\request\obj\Debug\request.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio 2019\Soluciones Visual Studio 2019\request\request\obj\Debug\request.Form1.resources
+D:\Documentos\Visual Studio 2019\Soluciones Visual Studio 2019\request\request\obj\Debug\request.Properties.Resources.resources
+D:\Documentos\Visual Studio 2019\Soluciones Visual Studio 2019\request\request\obj\Debug\request.csproj.GenerateResource.cache
+D:\Documentos\Visual Studio 2019\Soluciones Visual Studio 2019\request\request\obj\Debug\request.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2019\Soluciones Visual Studio 2019\request\request\obj\Debug\request.exe
+D:\Documentos\Visual Studio 2019\Soluciones Visual Studio 2019\request\request\obj\Debug\request.pdb
